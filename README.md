@@ -27,6 +27,3 @@ Learned at an advanced level how to create and present data stories in a profess
 ### Module 5: End-of-Course Project: TikTok Claims Classification Project
 
 The final project involved conducting an **exploratory data analysis** on a TikTok dataset to prepare for a future machine learning model to classify user submissions as "claims".
-* [cite_start]**Data imbalance**: The project found an imbalance in video counts between "claims" and "opinions"[cite: 8].
-
-[cite_start]These insights from the EDA will inform the parameters of the future machine learning model[cite: 8, 9].
